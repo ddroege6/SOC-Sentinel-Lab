@@ -1,10 +1,22 @@
-# Terraform
+# === Terraform ===
 .terraform/
-terraform.tfstate
-terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
 crash.log
+crash.*.log
 *.tfvars
+*.tfvars.json
 
+# Local VS Code settings (optional but common)
+.vscode/
 
-# Fluent Bit local secrets (not committed)
+# Python / Node etc. (if you ever add scripts)
+__pycache__/
+node_modules/
+
+# === Fluent Bit Lab ===
+# Local secrets - DO NOT COMMIT
 fluent-bit/secrets.local.env
+
+# Any local logs (if you ever move them into the repo)
+fluent-bit/*.log
