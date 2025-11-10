@@ -1,4 +1,4 @@
-# 🛰️ FTC SOC Sentinel Lab  
+# 🛰️ SOC Sentinel Lab  
 **Modern Security Operations Lab | Microsoft Sentinel + Fluent Bit + Azure Integration**
 
 > _A hands-on cybersecurity learning environment demonstrating how cloud-native tools can collect, normalize, and analyze security telemetry from hybrid sources._
