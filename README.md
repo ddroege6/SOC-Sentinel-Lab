@@ -146,9 +146,13 @@ MyAppLogs_CL
 ## 📸 Visual Showcase
 
 - [ ] Sentinel Incident Page (`Suspicious Resource Group Creation`)
+      <img width="1888" height="1287" alt="Image" src="https://github.com/user-attachments/assets/f7936868-b647-42d5-8a05-54bbbf3836f0" />
 - [ ] KQL Query showing `MyAppLogs_CL`
+      <img width="1406" height="1163" alt="Image" src="https://github.com/user-attachments/assets/13ea1ede-5bc5-43be-92a7-7bae645ff114" />
 - [ ] Fluent Bit console output
+      <img width="1602" height="1043" alt="Image" src="https://github.com/user-attachments/assets/8273d1bc-60c5-4d13-ad9a-3c08b0b26db3" />
 - [ ] Sentinel Workbook visualizations
+      <img width="2180" height="432" alt="Image" src="https://github.com/user-attachments/assets/cd6469ad-e38b-4d9b-940f-60b9a77edaeb" />
 
 
 ---
