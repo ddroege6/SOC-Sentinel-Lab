@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+*.tfvars
+
+
+# Fluent Bit local secrets (not committed)
+fluent-bit/secrets.local.env
